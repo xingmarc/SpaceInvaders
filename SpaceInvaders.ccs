@@ -1,0 +1,31 @@
+<Solution>
+  <PropertyGroup Name="SpaceInvaders" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="assets">
+          <Folder Name="Enemies">
+            <Image Name="enemy_missle.png" />
+            <Image Name="enemy_ray.png" />
+            <Image Name="invader_explosion.png" />
+            <Image Name="invaderAframe1.png" />
+            <Image Name="invaderAframe2.png" />
+            <Image Name="invaderBframe1.png" />
+            <Image Name="invaderBframe2.png" />
+            <Image Name="invaderCframe1.png" />
+            <Image Name="invaderCframe2.png" />
+          </Folder>
+          <Folder Name="Player">
+            <Image Name="player_missle.png" />
+            <Image Name="player_shield.png" />
+            <Image Name="spaceship.png" />
+          </Folder>
+          <Image Name="black-1072366_960_720.jpg" />
+          <TTF Name="space_invaders.ttf" />
+        </Folder>
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
